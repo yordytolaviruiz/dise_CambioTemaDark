@@ -193,15 +193,15 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+  /*efecto para acer el cuadro*/
 .intro {
     margin-bottom: 2rem;
     padding: 2rem;
-    /*efecto para acer el cuadro*/
-  background: var(--card-bg);
-  border-radius: 15px;
-  border: 1px solid rgba(0, 243, 255, 0.2);
-  box-shadow: 0 0 20px rgba(0, 243, 255, 0.1);
-  backdrop-filter: blur(5px);
+    background: var(--card-bg);
+    border-radius: 15px;
+    border: 1px solid rgba(0, 243, 255, 0.2);
+    box-shadow: 0 0 20px rgba(0, 243, 255, 0.1);
+    backdrop-filter: blur(5px);
 }
 .intro h2 {
     font-size: 2rem;
@@ -213,3 +213,4 @@ footer {
     line-height: 1.5;
     color: var(--text-color);
 }
+
